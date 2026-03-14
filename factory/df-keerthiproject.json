@@ -1,0 +1,9 @@
+{
+	"name": "df-keerthiproject",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7fd00190-75fb-45ca-861b-1571f5f0c34b",
+		"tenantId": "a8dbda8c-a072-4d95-9298-e90fc056edaf"
+	}
+}
